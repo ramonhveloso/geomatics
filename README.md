@@ -1,2 +1,2 @@
-# geomatics1
-Desenvolvimentos relacionados a área de geomatica.
+# geomatics
+Desenvolvimentos relacionados a área de geomática.
